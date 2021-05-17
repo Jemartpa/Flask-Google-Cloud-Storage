@@ -1,0 +1,475 @@
+newmtl Mat_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_0146e3693_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_014713580_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_11477c5f0_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_1147a5635_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_1147fa22f_displacement.png
+
+
+newmtl Mat_2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_17_014831ede_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_17_01486e1d9_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_3
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_17_1148d32d9_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_17_11491093b_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_17_11497a865_displacement.png
+
+
+newmtl Mat_4
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_16_0149b4731_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_16_0149ee944_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_5
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_16_114a6b4f6_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_16_114aa67ae_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_16_114b2ac44_displacement.png
+
+
+newmtl Mat_6
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_15_014b6741a_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_15_014ba8c20_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_7
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_15_114c2cd27_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_15_114c87fb0_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_15_114d0445b_displacement.png
+
+
+newmtl Mat_8
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_3_014d501fa_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_3_014d9140f_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_9
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_3_114e1070b_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_3_114e4c97e_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_3_114ed4716_displacement.png
+
+
+newmtl Mat_10
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_7_014f0c815_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_7_014f438a2_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_11
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_7_114fc4952_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_7_114ff58df_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_7_1150673d0_displacement.png
+
+
+newmtl Mat_12
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_14_0150a56c3_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_14_0150e60a3_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_13
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_14_115169e8e_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_14_1151ababb_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_14_11522683a_displacement.png
+
+
+newmtl Mat_14
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_13_015261adf_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_13_01529a269_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_15
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_13_1153119ff_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_13_115347cd7_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_13_1153bd175_displacement.png
+
+
+newmtl Mat_16
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_8_01543ae92_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_8_0154c8097_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_17
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_8_1155edd7a_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_8_115678128_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_8_115763962_displacement.png
+
+
+newmtl Mat_18
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_6_01579637f_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_6_0157d2b21_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_19
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_6_11584a794_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_6_115888cb0_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_6_11590714c_displacement.png
+
+
+newmtl Mat_20
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_5_01593e1fe_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_5_0159835ae_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_21
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_5_1159f5930_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_5_115a2d010_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_5_115a9e066_displacement.png
+
+
+newmtl Mat_22
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_4_015add6e0_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_4_015b19ce9_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_23
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_4_115bc9119_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_4_115c090fb_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_4_115c8b53b_displacement.png
+
+
+newmtl Mat_24
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_2_015cd4414_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_2_015d148ab_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_25
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_2_115d8f6ee_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_2_115dcf4b9_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_2_115e54e9e_displacement.png
+
+
+newmtl Mat_26
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_1_015e97050_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_1_015ed5608_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_27
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_1_115f59a27_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_1_115f99178_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_1_11600f4a5_displacement.png
+
+
+newmtl Mat_28
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_0_0160539c9_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_0_01608e18c_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_29
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_0_116106094_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_0_1161447de_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_0_1161c2652_displacement.png
+
+
+newmtl Mat_30
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_20_0161ca60b_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_20_0161d15f5_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_31
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_20_1161ea3c2_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_20_1161f2273_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_20_1162063c1_displacement.png
+
+
+newmtl Mat_32
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_10_01620de8e_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_10_016214743_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_33
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_10_11622fd01_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_10_116238673_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_10_116246505_displacement.png
+
+
+newmtl Mat_34
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_19_0162525cf_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_19_01625eb81_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_35
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_19_116274b43_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_19_116280a12_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_19_1162972ec_displacement.png
+
+
+newmtl Mat_36
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_9_0162a656c_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_9_0162aced8_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+
+
+newmtl Mat_37
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 0.000000
+d 1.000000
+map_Kd 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_9_1162bdcee_basecolor.png
+map_bump 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_9_1162ca09e_normal.png
+map_Ks 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_18_01474403d_specular.png
+disp 0040401_FLORAL_PRINT_FLARED_SKIRT_Colorway_1-textures/tex_9_1162e1382_displacement.png
+
+
